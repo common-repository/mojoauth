@@ -1,0 +1,85 @@
+#mojoauth_admin {
+    margin-top: 20px;
+}
+.mojoauth_logo {
+    width: 200px;
+}
+.mojoauth_config{
+    width: 70%;
+    float: left;
+    background: #fff;
+    padding: 10px;
+    margin-right: 8px;
+}
+.mojoauth_rightsection{
+    float: left;
+    width: 23%;
+}
+.mojoauth_shortcode_section {
+    background: #fff;
+    padding: 10px;
+    margin-bottom: 10px;
+}
+.mojoauth_shortcode_section input {
+    width: 100% !important;
+}
+#mojoauthloginformshortcodemessage{
+    background: #00800073;
+    color: #fff;
+    padding: 5px;
+    border: 1px solid #008000;
+    margin-top: 10px;
+}
+.mojoauth_field{
+    margin: 20px;
+}
+#mojoauth_admin label {
+    width: 20%;
+    display: inline-block;
+    vertical-align: top;
+    font-weight: bold;
+}
+#mojoauth_admin input[type="text"], #mojoauth_admin textarea {
+    width: 79%;
+    display: inline;
+}
+.mojoauth_field .submit,.mojoauth_field .submit input{
+    float: right;
+    margin-top: -7px;
+}
+.mojoauth_field .submit {
+    width: 140px;
+}
+.mojoauth_verification.button {
+    position: absolute;
+    margin-left: -110px;
+    width: 110px;
+    text-align: center;
+}
+.mojoauth_verification_message {
+    margin-left: 21%;
+    color: red;
+}
+.mojoauth_help_text {
+    margin-left: 21%;
+}
+.mojoauth_rightfield{
+    margin-left: 22%;
+}
+.mojoauth_active{
+    display:none;
+}
+.mojoauth_rightfield label{
+    width: 50% !important;
+    font-weight:normal !important;
+}
+.mojoauth_subfield label {
+    width: 25% !important;
+    margin-left: 5%;
+    margin-bottom: 10px;
+    margin-top: 8px;
+    font-weight:normal !important;
+}
+#mojoauth_admin .mojoauth_shortcode_section textarea {
+    width: 100%;
+}
